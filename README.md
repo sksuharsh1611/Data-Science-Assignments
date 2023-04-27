@@ -17,7 +17,7 @@ This repository contains assignments and projects completed as part of a data sc
     -	Deep learning and neural networks
 
 # Assignments
-Each assignment is contained in its own directory and includes a Jupyter Notebook file (.ipynb) and any relevant data files. The assignments cover a range of topics and are designed to reinforce the concepts covered in the course lectures.
+ > Each assignment is contained in its own directory and includes a Jupyter Notebook file (.ipynb) and any relevant data files. The assignments cover a range of topics and are designed to reinforce the concepts covered in the course lectures.
 
 # Projects
  In addition to assignments, this repository also contains several larger-scale projects completed as part of the course. These projects involve real-world datasets and often require the use of multiple machine learning algorithms and techniques.
