@@ -3,11 +3,17 @@ This repository contains assignments and projects completed as part of a data sc
 
 # Course Overview
   The course covers the following topics:
+  
     -	Python programming fundamentals
+    
     -	Data exploration and visualization with Pandas and Matplotlib
+    
     -	Statistical inference and hypothesis testing
+    
     -	Machine learning algorithms for classification and regression
+    
     -	Natural language processing and text mining
+    
     -	Deep learning and neural networks
 
 # Assignments
