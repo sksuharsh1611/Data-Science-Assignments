@@ -1,5 +1,5 @@
 # Data Science Assignments
-This repository contains assignments and projects completed as part of a data science course.
+> This repository contains assignments and projects completed as part of a data science course.
 
 # Course Overview
   The course covers the following topics:
